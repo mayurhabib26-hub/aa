@@ -1,0 +1,6 @@
+{
+  "name": "AA DESIGNO | Architecture & Interior Design Studio",
+  "description": "AA Designo creates sophisticated residential, commercial and workspace interiors through thoughtful planning, refined materials and timeless design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
